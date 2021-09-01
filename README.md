@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-#
+##
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=svyath&show_icons=true&theme=prussian" />
 </details>
 
