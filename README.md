@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <br />
 <br />
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=svyath&show_icons=true&theme=prussian" />
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svyath&layout=compact&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+    <img align="left" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=svyath&layout=compact&show_icons=true&theme=prussian" />
 </details>
 
 [linkedin]: https://www.linkedin.com/in/svyath/
