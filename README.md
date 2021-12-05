@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="VladKalachev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="svyath | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="svyath | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 <br />
 <br />
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=svyath&show_icons=true&theme=prussian" />
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svyath&layout=compact&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 [linkedin]: https://www.linkedin.com/in/svyath/
